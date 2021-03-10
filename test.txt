@@ -1,1 +1,3 @@
 test file for git activity.
+hogehogehoge
+foobarfoobarfoobar
